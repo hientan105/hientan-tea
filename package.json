@@ -1,0 +1,15 @@
+{
+  "name": "hientan-tea",
+  "version": "1.0.0",
+  "description": "Doi khong nhu la mo. Tinh khong nhu la tho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hientan105/hientan-tea.git"
+  },
+  "author": "hientan105",
+  "license": "MIT"
+}
